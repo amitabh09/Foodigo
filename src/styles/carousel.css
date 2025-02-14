@@ -1,0 +1,12 @@
+.carouselContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    overflow: hidden;
+}
+
+.carouselImage {
+    width: 150px;
+    padding-right: 50px;
+}
